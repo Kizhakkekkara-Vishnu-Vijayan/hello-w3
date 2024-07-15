@@ -7,5 +7,4 @@ This is for checking push from local repository to github.
 
 It now includes steps for Github
 
-New lines added to the commit
 Added one more line
